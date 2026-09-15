@@ -68,6 +68,8 @@ In no particular order:
 - [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 - [Solidity security considerations](http://solidity.readthedocs.io/en/develop/security-considerations.html)
 - [Methodological security review of a smart contract](https://ethereum.stackexchange.com/questions/8551/methodological-security-review-of-a-smart-contract)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 - [List of helper/utility functions](./UTILS.md)
 
 ## License
